@@ -1,0 +1,12 @@
+{
+  "name": "model-router",
+  "version": "1.0.0",
+  "description": "Cost-optimized Claude model routing for OpenClaw agents",
+  "keywords": ["agent", "model-routing", "cost-optimization", "claude"],
+  "author": "John Zhao",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0xJohnX/model-router"
+  }
+}
